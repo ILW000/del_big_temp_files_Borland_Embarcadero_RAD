@@ -2,3 +2,4 @@
 
 util for deletion big temp.files from all subfolders w/o confirm
 
+project from code::blocks ide. msys2 mingw32 compiller.
