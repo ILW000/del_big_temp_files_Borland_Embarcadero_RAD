@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638793733 source:d:\ilya\projects\20211206_del_big_temp_files\20211206_del_big_temp_files\main.cpp
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<string>
+
